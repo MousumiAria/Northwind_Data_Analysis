@@ -1,0 +1,8 @@
+,first_name,last_name,job_title,city,state_province,order_id,order_date,ship_name,ship_city,product_id,quantity,unit_price,product_code,product_name
+0,Christina,Lee,Purchasing Manager,New York,NY,31,2006-01-20 00:00:00,Christina Lee,New York,7,10.0000,30.0000,NWTDFN-7,Northwind Traders Dried Pears
+1,Christina,Lee,Purchasing Manager,New York,NY,31,2006-01-20 00:00:00,Christina Lee,New York,51,10.0000,53.0000,NWTDFN-51,Northwind Traders Dried Apples
+2,Christina,Lee,Purchasing Manager,New York,NY,31,2006-01-20 00:00:00,Christina Lee,New York,80,10.0000,3.5000,NWTDFN-80,Northwind Traders Dried Plums
+3,Christina,Lee,Purchasing Manager,New York,NY,34,2006-02-06 00:00:00,Christina Lee,New York,19,20.0000,9.2000,NWTBGM-19,Northwind Traders Chocolate Biscuits Mix
+4,Christina,Lee,Purchasing Manager,New York,NY,58,2006-04-22 00:00:00,Christina Lee,New York,20,40.0000,81.0000,NWTJP-6,Northwind Traders Marmalade
+5,Christina,Lee,Purchasing Manager,New York,NY,58,2006-04-22 00:00:00,Christina Lee,New York,52,40.0000,7.0000,NWTG-52,Northwind Traders Long Grain Rice
+6,Christina,Lee,Purchasing Manager,New York,NY,80,2006-04-25 17:03:55,Christina Lee,New York,56,10.0000,38.0000,NWTP-56,Northwind Traders Gnocchi
