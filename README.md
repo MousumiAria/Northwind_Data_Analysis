@@ -28,7 +28,7 @@ I utlized the DAX expressions. The different charts incorporated in the dashboar
 
 The filters introduced in dashboard further narrows down and provides more specific results.
 
-## Approach 2: Using SQL queries in for data analysis:
+## Approach 2: Using SQL queries for data analysis:
 Details needs to be added.
 
 ## Approach 3. Using Python and Pandas for data analysis:
